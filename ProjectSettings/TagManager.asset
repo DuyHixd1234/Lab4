@@ -4,7 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Bullet
+  - Trap
+  - WinPlace
+  - Orange
   layers:
   - Default
   - TransparentFX
@@ -43,16 +45,10 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: New Layer 1
-    uniqueID: 1098253753
+    uniqueID: 860659655
     locked: 0
   - name: New Layer 2
-    uniqueID: 2431954551
-    locked: 0
-  - name: New Layer 3
-    uniqueID: 2748641719
-    locked: 0
-  - name: New Layer 4
-    uniqueID: 1319543043
+    uniqueID: 438735751
     locked: 0
   m_RenderingLayers:
   - Default
