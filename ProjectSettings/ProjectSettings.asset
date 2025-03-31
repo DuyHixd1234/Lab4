@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: c4664036749068843a5f874d8ffef259
+  productGUID: d252d439b0c4f7e4e9dd38e3240bfdae
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Lab3
+  productName: ASSMT
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -630,14 +630,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Lab3
+  metroPackageName: ASSMT
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Lab3
+  metroApplicationDescription: ASSMT
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -708,10 +708,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: be6eb5f3-05cd-4093-8644-d05611a40678
+  cloudProjectId: 4973d87c-7155-4c13-89d3-d15da899137a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Lab3
+  projectName: ASSMT
   organizationId: duyhixd1234
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
